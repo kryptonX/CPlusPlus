@@ -12,7 +12,7 @@
 #endif
 
 #ifndef C_VALUES
-#define CHEI GHT (0x07)
+#define CHEIGHT (0x07)
 #define CWIDTH (0x07)
 #endif
 
